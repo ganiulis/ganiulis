@@ -13,5 +13,5 @@ I host a lot of my personal works publicly. Check them out:
 3. [Personal Wiki](https://github.com/ganiulis/ganiulis/wiki)
    1. Career Ladder
    2. Personal Projects
-   3. Articles
+   3. [Articles](https://github.com/ganiulis/ganiulis/wiki/Articles)
    4. [Katas](https://github.com/ganiulis/ganiulis/wiki/Katas)
