@@ -13,7 +13,4 @@ I host a lot of my personal works publicly. Check them out.
    1. Career Ladder
    2. Personal Projects
    3. Katas
-
-## Planned
-
-1. Knowledge Wiki
+3. [Personal Knowledge Base](https://github.com/ganiulis/knowledge-base)
