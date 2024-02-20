@@ -10,7 +10,7 @@ I host a lot of my personal works publicly. Check them out:
 
 1. [Configuration Files](https://github.com/ganiulis/dotfiles)
 2. [Knowledge Base](https://github.com/ganiulis/knowledge-base)
-3. [Website](https://ganiulis.github.io)
+3. [Website](https://ganiulis.github.io) (hosted via GitHub Pages)
 4. [Wiki](https://github.com/ganiulis/ganiulis/wiki)
    1. Career Ladder
    2. [Articles](https://github.com/ganiulis/ganiulis/wiki/Articles)
