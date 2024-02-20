@@ -15,3 +15,7 @@ I host a lot of my personal works publicly. Check them out:
    2. Personal Projects
    3. [Articles](https://github.com/ganiulis/ganiulis/wiki/Articles)
    4. [Katas](https://github.com/ganiulis/ganiulis/wiki/Katas)
+
+Planned:
+
+1. Personal Website (via GitHub Pages)
