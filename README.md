@@ -6,7 +6,7 @@ I'm a PHP + Go developer.
 
 # Resources
 
-I publish a lot of my personal works for free. Check them out:
+I publish a lot of my personal works here. Check them out:
 
 1. [Career Wiki](https://github.com/ganiulis/ganiulis/wiki). Who I am, what I do, and professional information.
 2. [Configuration Files](https://github.com/ganiulis/dotfiles). Dotfiles for my systems.
