@@ -13,5 +13,5 @@ I publish a lot of my personal works on GitHub. Check them out:
 3. [Personal notes](https://github.com/ganiulis/personal-notes). Everything I know will be eventually published here. Also available via [GitHub Pages](https://ganiulis.github.io/personal-notes/).
 4. ~[Technical blog](https://ganiulis.github.io). Personal thoughts, hosted via GitHub Pages.~ TDB.
 5. [Charts](https://github.com/ganiulis/charts). Helm charts I use for my CI/CD pipelines.
-6. [Books](https://github.com/ganiulis/ganiulis/wiki/Books). Technical book notes go here.
-7. [Stars](https://github.com/ganiulis?tab=stars). My repositories are organized here.
+6. [Stars](https://github.com/ganiulis?tab=stars). My repositories are organized here.
+7. [Books](https://github.com/ganiulis/ganiulis/wiki/Books). Notes from books I read go here.
