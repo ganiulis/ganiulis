@@ -1,7 +1,7 @@
 Hello.
 
-I maintain some miscellaneous repositories:
+I'm a backend software developer and DevOps enthusiast who maintains some personal repositories here:
 
-1. [Configuration files](https://github.com/ganiulis/dotfiles-common)—dotfiles
-2. [Professional wiki](https://github.com/ganiulis/ganiulis/wiki)—about me
-3. [Personal notes](https://ganiulis.github.io/notes-personal/)—notes
+1. [Dotfiles](https://github.com/ganiulis/dotfiles-common-v2)
+2. [Professional wiki](https://github.com/ganiulis/ganiulis/wiki)
+3. [Personal notes](https://ganiulis.github.io/notes-personal)
