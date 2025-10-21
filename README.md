@@ -22,5 +22,6 @@ Past hyperfixations:
 2. [Fish](https://fishshell.com), the friendliest shell
 3. [Gruvbox](https://github.com/morhetz/gruvbox), a terminal color scheme
 4. [Pi-hole](https://pi-hole.net), network-level ad blocker
-5. [Solarized](https://ethanschoonover.com/solarized), a terminal color scheme
-6. [Starship](https://starship.rs), a fancy shell-agnostic prompt written in Rust
+5. [Rust](https://rust-lang.org), I'm not good at it but I still try
+6. [Solarized](https://ethanschoonover.com/solarized), a terminal color scheme
+7. [Starship](https://starship.rs), a fancy shell-agnostic prompt written in Rust
