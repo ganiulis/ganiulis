@@ -11,11 +11,16 @@ Current hyperfixations:
 
 1. [Ansible](https://docs.ansible.com), you know what it is
 2. Bash scripts, because I got lazy writing commands
-3. [mise-en-place](https://mise.jdx.dev), rootless development environment manager
-4. [Neovim](https://neovim.io), the only text editor you'll ever need
+3. [cloudflared](https://github.com/cloudflare/cloudflared), a network tunnel
+4. [Dracula](https://draculatheme.com), a terminal color scheme
+5. [mise-en-place](https://mise.jdx.dev), rootless development environment manager
+6. [Neovim](https://neovim.io), the only text editor you'll ever need
 
 Past hyperfixations:
 
-1. [Fish](https://fishshell.com), the friendliest shell
-2. [Starship](https://starship.rs), a fancy shell-agnostic prompt written in Rust
-3. [Pi-hole](https://pi-hole.net), network-level ad blocker
+1. [Dotfiles](https://dotfiles.github.io), you know what it is
+2. [Fish](https://fishshell.com), the friendliest shell
+3. [Gruvbox](https://github.com/morhetz/gruvbox), a terminal color scheme
+4. [Pi-hole](https://pi-hole.net), network-level ad blocker
+5. [Solarized](https://ethanschoonover.com/solarized), a terminal color scheme
+6. [Starship](https://starship.rs), a fancy shell-agnostic prompt written in Rust
