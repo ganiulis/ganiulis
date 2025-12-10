@@ -2,7 +2,7 @@ Hello. I'm Gintaras.
 
 I keep my stuff here:
 
-1. [Bliki]([https://github.com/ganiulis/ganiulis/wiki](https://bliki.gintrasa01.com/))
+1. [Bliki](https://bliki.gintrasa01.com)
 2. [Dotfiles](https://github.com/ganiulis/dotfiles-0c49)
 
 Current hyperfixations:
